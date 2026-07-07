@@ -1,10 +1,10 @@
-🎬 **K-Drama Review Sentiment Analysis | Python & Streamlit**
+🎬 **Sentence Sentiment Analysis | Python & Streamlit**
 
 I'm excited to share one of my recent machine learning projects!
 
-In this project, I developed a **Sentiment Analysis application** that predicts whether a K-Drama review expresses a **positive, negative sentiment or neutral**. The goal was to transform unstructured text reviews into meaningful insights that can help understand audience opinions.
+In this project, I developed a **Sentiment Analysis application** that predicts whether a Sentence expresses a **positive, negative sentiment or neutral**. The goal was to transform unstructured text into meaningful insights that can help understand audience opinions.
 
-Using **Python**, I preprocessed the review data by cleaning text, removing stop words, and converting the reviews into numerical features. I then trained a sentiment classification model and deployed it through an interactive **Streamlit** web application, allowing users to enter any K-Drama review and instantly receive a sentiment prediction.
+Using **Python**, I preprocessed the review data by cleaning text, removing stop words, and converting the reviews into numerical features. I then trained a sentiment classification model and deployed it through an interactive **Streamlit** web application, allowing users to enter any Sentence and instantly receive a sentiment prediction.
 
 📊 **Project Highlights**
 • Performed text preprocessing and feature engineering
