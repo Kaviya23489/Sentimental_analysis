@@ -1,4 +1,4 @@
-# Sentiment_app.py
+#Sentiment_app.py
 
 import streamlit as st
 from textblob import TextBlob
